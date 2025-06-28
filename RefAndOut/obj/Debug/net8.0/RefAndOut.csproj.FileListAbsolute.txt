@@ -1,0 +1,15 @@
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\bin\Debug\net8.0\RefAndOut.exe
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\bin\Debug\net8.0\RefAndOut.deps.json
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\bin\Debug\net8.0\RefAndOut.runtimeconfig.json
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\bin\Debug\net8.0\RefAndOut.dll
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\bin\Debug\net8.0\RefAndOut.pdb
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.AssemblyInfoInputs.cache
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.AssemblyInfo.cs
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.csproj.CoreCompileInputs.cache
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.sourcelink.json
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.dll
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\refint\RefAndOut.dll
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.pdb
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\RefAndOut.genruntimeconfig.cache
+D:\Tutorials\DotNetCore\ConsoleApp\RefAndOut\obj\Debug\net8.0\ref\RefAndOut.dll

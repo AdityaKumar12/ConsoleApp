@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parallelogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1bc460acf5807c89a2fb2b22edc09a7f7517253")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfbb37f62ff4a0973078801deadf96128bf21c6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parallelogram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parallelogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

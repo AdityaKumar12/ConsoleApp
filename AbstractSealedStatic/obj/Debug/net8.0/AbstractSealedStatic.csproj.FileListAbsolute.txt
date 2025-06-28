@@ -1,0 +1,15 @@
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\bin\Debug\net8.0\AbstractSealedStatic.exe
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\bin\Debug\net8.0\AbstractSealedStatic.deps.json
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\bin\Debug\net8.0\AbstractSealedStatic.runtimeconfig.json
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\bin\Debug\net8.0\AbstractSealedStatic.dll
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\bin\Debug\net8.0\AbstractSealedStatic.pdb
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.AssemblyInfoInputs.cache
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.AssemblyInfo.cs
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.csproj.CoreCompileInputs.cache
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.sourcelink.json
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.dll
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\refint\AbstractSealedStatic.dll
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.pdb
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\AbstractSealedStatic.genruntimeconfig.cache
+D:\Tutorials\DotNetCore\ConsoleApp\AbstractSealedStatic\obj\Debug\net8.0\ref\AbstractSealedStatic.dll
