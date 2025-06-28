@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLifetime", "ServiceL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependecyInjection\DependencyInjection.csproj", "{EDE94E0B-4836-4C36-B955-945D865DF5D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EDE94E0B-4836-4C36-B955-945D865DF5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE94E0B-4836-4C36-B955-945D865DF5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE94E0B-4836-4C36-B955-945D865DF5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
