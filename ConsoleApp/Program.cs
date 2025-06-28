@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 Console.Write("Enter a string - ");
 Dictionary<char, int> charcount = new Dictionary<char, int>();
 string str = Console.ReadLine();
