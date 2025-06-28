@@ -1,0 +1,14 @@
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\bin\Debug\net8.0\RightAngleTriangleReflection.exe
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\bin\Debug\net8.0\RightAngleTriangleReflection.deps.json
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\bin\Debug\net8.0\RightAngleTriangleReflection.runtimeconfig.json
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\bin\Debug\net8.0\RightAngleTriangleReflection.dll
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\bin\Debug\net8.0\RightAngleTriangleReflection.pdb
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.AssemblyInfoInputs.cache
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.AssemblyInfo.cs
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.dll
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\refint\RightAngleTriangleReflection.dll
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.pdb
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\RightAngleTriangleReflection.genruntimeconfig.cache
+C:\Users\adity\source\repos\ConsoleApp\RightAngleTriangleReflection\obj\Debug\net8.0\ref\RightAngleTriangleReflection.dll
