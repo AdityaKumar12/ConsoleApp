@@ -5,6 +5,8 @@
 /.vs
 /AbstractSealedStatic/bin
 /AbstractSealedStatic/obj
+/AuthenticationAuthorization/bin
+/AuthenticationAuthorization/obj
 /ConsoleApp/bin
 /ConsoleApp/obj
 /DependecyInjection/bin

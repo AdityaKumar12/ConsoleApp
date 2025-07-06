@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Depe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAuthorization", "AuthenticationAuthorization\AuthenticationAuthorization.csproj", "{C52F0CC0-FD06-EDAF-5AF4-301051C46191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4465EA4-0DAD-466D-95D0-C7EBBACE8E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52F0CC0-FD06-EDAF-5AF4-301051C46191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52F0CC0-FD06-EDAF-5AF4-301051C46191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52F0CC0-FD06-EDAF-5AF4-301051C46191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52F0CC0-FD06-EDAF-5AF4-301051C46191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
